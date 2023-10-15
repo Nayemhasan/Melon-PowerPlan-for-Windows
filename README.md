@@ -58,6 +58,8 @@ powercfg -import "the path of that config file"
 
 ## Bonus tips:
 turn off : transparency Effects from colors settings
+
 turn off : fast startup 
+
 additionally: you can trun off page files from System Properties & speed up your ssd using [melonbooster](https://github.com/watermelonvault/Melon_booster)
 
