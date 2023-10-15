@@ -8,6 +8,7 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 
 ## 🍉Powerplan
 ```bash
+# Configure power plan settings for laptops
 $laptopSettingsCommands = @(
     "powercfg -setacvalueindex $guid SUB_VIDEO VIDEOIDLE 0",
     "powercfg -setacvalueindex $guid SUB_VIDEO BRIGHTNESS 100",
