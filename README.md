@@ -43,7 +43,7 @@ $desktopSettingsCommands = @(
 ```
 <br>
 
-## How to use? Powerplan
+## How to use?🍉Powerplan
 - Download the latest [release](https://github.com/Nayemhasan/Hp_elitebook_840G5MAX/releases/tag/V.1)
 - Run cmd as a administrator and type this
 ```bash
