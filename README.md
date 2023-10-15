@@ -6,8 +6,7 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 - process states maxed out to 100% for no reason*
 
 
-```
-`🍉Powerplan`
+## 🍉Powerplan
 ```bash
 $laptopSettingsCommands = @(
     "powercfg -setacvalueindex $guid SUB_VIDEO VIDEOIDLE 0",
