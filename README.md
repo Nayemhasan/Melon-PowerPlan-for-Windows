@@ -1,10 +1,14 @@
 ## Melon-PowerPlan-for-Windows
 A custom made power plan for windows end user's to get the most out of thier pc's🍉
+
 <br>
+
 ## About the powerplan⚡
 - maxed out everything even on battery power mode too *enable dc turbo boost from bios (for laptops)
 - process states maxed out to 100% for no reason*😉
+
 <br>
+
 ## Whats inside 🍉Powerplan?
 ```bash
 # Configure power plan settings for laptops
@@ -38,6 +42,7 @@ $desktopSettingsCommands = @(
 )
 ```
 <br>
+
 ## How to use? Powerplan
 - Download the latest [release](https://github.com/Nayemhasan/Hp_elitebook_840G5MAX/releases/tag/V.1)
 - Run cmd as a administrator and type this
