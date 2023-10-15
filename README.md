@@ -5,7 +5,7 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 - Download the latest [release](https://github.com/Nayemhasan/Hp_elitebook_840G5MAX/releases/tag/V.1)
 - Run cmd as a administrator and type this
 ```bash
-powercfg -import "the path of that config file path"
+powercfg -import "the path of that config file"
 ```
 - go to control panel and select the 🍉power plan and all set.
 <p align="left">
