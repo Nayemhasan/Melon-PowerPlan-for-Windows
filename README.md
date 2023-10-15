@@ -49,7 +49,7 @@ $desktopSettingsCommands = @(
 ```bash
 powercfg -import "the path of that config file"
 ```
-- go to control panel and select the 🍉power plan and all set.
+- Go to control panel and select the 🍉power plan and all set.
 <p align="left">
   <img src="https://github.com/Nayemhasan/Hp_elitebook_840G5MAX/blob/main/Resources/powerplan.png">
 </p>
