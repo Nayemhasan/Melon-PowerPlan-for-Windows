@@ -58,6 +58,8 @@ powercfg -import "the path of that config file"
 
 ## Bonus tips:
 
+want more pow? try these 🔻
+
 turn off : transparency effects from colors settings
 
 turn off : fast startup 
