@@ -61,5 +61,8 @@ turn off : transparency effects from colors settings
 
 turn off : fast startup 
 
+want more fps? 
+- turn off gpu audio output from nvidia/amd gpu control panel
+
 additionally: you can turn off page files from System Properties & speed up your ssd using [melonbooster🍉🔥](https://github.com/watermelonvault/Melon_booster)
 
