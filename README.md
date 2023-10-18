@@ -44,7 +44,7 @@ $desktopSettingsCommands = @(
 <br>
 
 ## How to use?🍉Powerplan
-- Download the latest [release](https://github.com/Nayemhasan/Melon-PowerPlan-for-Windows/releases/tag/V.1)
+- Download the latest [release](https://github.com/Nayemhasan/Melon-PowerPlan-for-Windows/releases)
 - Run cmd as a administrator and type this
 ```bash
 powercfg -import "the path of that config file"
