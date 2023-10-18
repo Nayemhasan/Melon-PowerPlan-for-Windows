@@ -62,7 +62,7 @@ want more pow? try these 🔻
 
 turn off : transparency effects from colors settings
 
-turn off : fast startup 
+turn off : fast startup(*for more stable system)
 
 want more fps?: turn off gpu audio output from nvidia/amd gpu control panel
 
