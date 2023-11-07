@@ -1,7 +1,6 @@
 ## Melon-PowerPlan-for-Windows🍉
 A custom made power plan for windows end user's to get the most out of thier pc's & laptops. 
-thanks to <p><a href="https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg#/media/File:Microsoft_logo_(2012).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft logo (2012).svg" height="20.44" width="96"></a> for making things easier!
-
+thanks to <p><a href="https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft logo (2012).svg" height="21.29" width="100"></a> for making things easier!
 <br>
 <p align="left">
   <img src="https://img.shields.io/github/downloads/Nayemhasan/Melon-PowerPlan-for-Windows/total?style=social">
