@@ -19,6 +19,7 @@ thanks to <p><a href="https://learn.microsoft.com/en-us/windows-hardware/design/
 </table>
 
 ## About the powerplan⚡
+- reduces input lags☝
 - maxed out everything even on battery power mode too *enable dc turbo boost from bios (for laptops)
 - process states maxed out to 100% for no reason*😉 & many more 
 - now you can chose wether to use 100% cpu all the time or not with these 2 new powerplans (MelonV3+UltimateMelonV3)
