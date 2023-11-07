@@ -9,7 +9,7 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 ## About the powerplan⚡
 - maxed out everything even on battery power mode too *enable dc turbo boost from bios (for laptops)
 - process states maxed out to 100% for no reason*😉
-<details>
+- <details>
 <summary>details👇</summary>
 
 ```
