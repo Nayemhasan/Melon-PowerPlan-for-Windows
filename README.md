@@ -78,11 +78,9 @@ additionally: you can turn off page files from System Properties & speed up your
 description
 </details>
 
-
 <details>
-<summary>contents of the MelonV3 power scheme 9712253e-f58d-4b9a-a12b-70463d94d896</summary>
-```
-
+<summary>contents of theMelonV3 power scheme 9712253e-f58d-4b9a-a12b-70463d94d896</summary>
+    ```
 		Power Scheme GUID: 9712253e-f58d-4b9a-a12b-70463d94d896  (MelonV3)
 		  Subgroup GUID: 0012ee47-9041-4b5d-9b77-535fba8b1442  (Hard disk)
 			GUID Alias: SUB_DISK
@@ -356,6 +354,5 @@ description
 			  Possible Settings units: %
 			Current AC Power Setting Index: 0x00000007
 			Current DC Power Setting Index: 0x00000007
-
-```
+    ```
 </details>
