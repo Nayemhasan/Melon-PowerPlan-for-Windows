@@ -11,7 +11,15 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 - process states maxed out to 100% for no reason*😉 & many more 
 - now you can chose wether to use 100% cpu all the time or not
 - MelonV3 provides outsanding performance respected to thermals - cpu_idle support
+<p align="left">
+  <img src="https://github.com/Nayemhasan/Melon-PowerPlan-for-Windows/blob/main/pics/v3.png">
+</p>
+
 - UltimateMelonV3 provides maxed-out everything for hardcore users - no cpu_idle *make sure proper cooling
+<p align="left">
+  <img src="https://github.com/Nayemhasan/Melon-PowerPlan-for-Windows/blob/main/pics/v3ultimate.png">
+</p>
+
 <br>
 
 ## Whats inside 🍉Powerplan?
