@@ -1,10 +1,8 @@
 ## Melon-PowerPlan-for-Windows🍉
 A custom made power plan for windows end user's to get the most out of thier pc's & laptops. 
-thanks to MICROSOFT <img src="https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg#/media/File:Microsoft_logo_(2012).svg" alt="A beautiful landscape">
+thanks to 
+<p><a href="https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg#/media/File:Microsoft_logo_(2012).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft logo (2012).svg" height="109" width="512"></a><br
 
-
-
-<p><a href="https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg#/media/File:Microsoft_logo_(2012).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft logo (2012).svg" height="109" width="512"></a><br>By &lt;a href="https://en.wikipedia.org/wiki/Microsoft" class="extiw" title="en:Microsoft"&gt;Microsoft Corporation&lt;/a&gt; - Jason Wells - &lt;a rel="nofollow" class="external text" href="https://info.flipgrid.com/"&gt;Flipgrid&lt;/a&gt; &lt;span style="font-size: 0.95em; font-weight: bold; color:#555; position: relative;"&gt;(in English)&lt;/span&gt;. &lt;a href="https://en.wikipedia.org/wiki/Microsoft" class="extiw" title="w:Microsoft"&gt;Microsoft&lt;/a&gt; (&lt;span class="mw-formatted-date" title="2018-06-18"&gt;June 18, 2018&lt;/span&gt;). Retrieved on &lt;span class="mw-formatted-date" title="2021-05-21"&gt;May 21, 2021&lt;/span&gt;. (&lt;a rel="nofollow" class="external text" href="https://static.flipgrid.com/fg-svgs/microsoft-logo.svg"&gt;Direct link&lt;/a&gt;)., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=20799781">Link</a></p>
 
 <br>
 <p align="left">
