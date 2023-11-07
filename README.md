@@ -625,10 +625,16 @@ Power Scheme GUID: 61e60280-bca9-439e-955a-a5c23faa20e6  (UltimateMelonV3)
 ```bash
 powercfg -import "the path of that config file"
 ```
+<p align="left">
+  <img src="https://github.com/Nayemhasan/Melon-PowerPlan-for-Windows/blob/main/pics/path.png">
+</p>
+
 - Go to control panel and select the 🍉power plan and all set.
 <p align="left">
-  <img src="https://github.com/Nayemhasan/Hp_elitebook_840G5MAX/blob/main/Resources/powerplan.png">
+  <img src="https://github.com/Nayemhasan/Melon-PowerPlan-for-Windows/blob/main/pics/def.png">
 </p>
+
+- Now choose the preferred one.
 
 - Done🍉
 
