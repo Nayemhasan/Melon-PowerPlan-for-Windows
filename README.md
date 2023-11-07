@@ -79,9 +79,8 @@ additionally: you can turn off page files from System Properties & speed up your
 <details>
 <summary>📌Cool Magisk Modules⚡</summary>
 ```bash
-
-  Power Scheme GUID: 9712253e-f58d-4b9a-a12b-70463d94d896  (MelonV3)
-  Subgroup GUID: 0012ee47-9041-4b5d-9b77-535fba8b1442  (Hard disk)
+    Power Scheme GUID: 9712253e-f58d-4b9a-a12b-70463d94d896  (MelonV3)
+    Subgroup GUID: 0012ee47-9041-4b5d-9b77-535fba8b1442  (Hard disk)
     GUID Alias: SUB_DISK
     Power Setting GUID: 6738e2c4-e8a5-4a42-b16a-e040e769756e  (Turn off hard disk after)
       GUID Alias: DISKIDLE
@@ -92,7 +91,7 @@ additionally: you can turn off page files from System Properties & speed up your
     Current AC Power Setting Index: 0x00000000
     Current DC Power Setting Index: 0x000004b0
 
-  Subgroup GUID: 0d7dbae2-4294-402a-ba8e-26777e8488cd  (Desktop background settings)
+    Subgroup GUID: 0d7dbae2-4294-402a-ba8e-26777e8488cd  (Desktop background settings)
     Power Setting GUID: 309dce9b-bef4-4119-9921-a851fb12f0f4  (Slide show)
       Possible Setting Index: 000
       Possible Setting Friendly Name: Available
@@ -101,7 +100,7 @@ additionally: you can turn off page files from System Properties & speed up your
     Current AC Power Setting Index: 0x00000000
     Current DC Power Setting Index: 0x00000000
 
-  Subgroup GUID: 19cbb8fa-5279-450e-9fac-8a3d5fedd0c1  (Wireless Adapter Settings)
+    Subgroup GUID: 19cbb8fa-5279-450e-9fac-8a3d5fedd0c1  (Wireless Adapter Settings)
     Power Setting GUID: 12bbebe6-58d6-4636-95bb-3217ef867c1a  (Power Saving Mode)
       Possible Setting Index: 000
       Possible Setting Friendly Name: Maximum Performance
@@ -114,7 +113,7 @@ additionally: you can turn off page files from System Properties & speed up your
     Current AC Power Setting Index: 0x00000000
     Current DC Power Setting Index: 0x00000000
 
-  Subgroup GUID: 238c9fa8-0aad-41ed-83f4-97be242c8f20  (Sleep)
+    Subgroup GUID: 238c9fa8-0aad-41ed-83f4-97be242c8f20  (Sleep)
     GUID Alias: SUB_SLEEP
     Power Setting GUID: 29f6c1db-86da-48c5-9fdb-f2b67b1f44da  (Sleep after)
       GUID Alias: STANDBYIDLE
@@ -154,7 +153,7 @@ additionally: you can turn off page files from System Properties & speed up your
     Current AC Power Setting Index: 0x00000000
     Current DC Power Setting Index: 0x00000000
 
-  Subgroup GUID: 2a737441-1930-4402-8d77-b2bebba308a3  (USB settings)
+    Subgroup GUID: 2a737441-1930-4402-8d77-b2bebba308a3  (USB settings)
     Power Setting GUID: 48e6b7a6-50f5-4782-a5d4-53bb8f07e226  (USB selective suspend setting)
       Possible Setting Index: 000
       Possible Setting Friendly Name: Disabled
@@ -163,7 +162,7 @@ additionally: you can turn off page files from System Properties & speed up your
     Current AC Power Setting Index: 0x00000001
     Current DC Power Setting Index: 0x00000001
 
-  Subgroup GUID: 4f971e89-eebd-4455-a8de-9e59040e7347  (Power buttons and lid)
+    Subgroup GUID: 4f971e89-eebd-4455-a8de-9e59040e7347  (Power buttons and lid)
     GUID Alias: SUB_BUTTONS
     Power Setting GUID: a7066653-8d6c-40a8-910e-a1f54b84c7e5  (Start menu power button)
       GUID Alias: UIBUTTON_ACTION
@@ -176,7 +175,7 @@ additionally: you can turn off page files from System Properties & speed up your
     Current AC Power Setting Index: 0x00000000
     Current DC Power Setting Index: 0x00000000
 
-  Subgroup GUID: 501a4d13-42af-4429-9fd1-a8218c268e20  (PCI Express)
+    Subgroup GUID: 501a4d13-42af-4429-9fd1-a8218c268e20  (PCI Express)
     GUID Alias: SUB_PCIEXPRESS
     Power Setting GUID: ee12f906-d277-404b-b6da-e5fa1a576df5  (Link State Power Management)
       GUID Alias: ASPM
@@ -189,7 +188,7 @@ additionally: you can turn off page files from System Properties & speed up your
     Current AC Power Setting Index: 0x00000000
     Current DC Power Setting Index: 0x00000000
 
-  Subgroup GUID: 54533251-82be-4824-96c1-47b60b740d00  (Processor power management)
+    Subgroup GUID: 54533251-82be-4824-96c1-47b60b740d00  (Processor power management)
     GUID Alias: SUB_PROCESSOR
     Power Setting GUID: 5d76a2ca-e8c0-402f-a133-2158492d58ad  (Processor idle disable)
       GUID Alias: IDLEDISABLE
@@ -227,7 +226,7 @@ additionally: you can turn off page files from System Properties & speed up your
     Current AC Power Setting Index: 0x00000064
     Current DC Power Setting Index: 0x00000064
 
-  Subgroup GUID: 7516b95f-f776-4464-8c53-06167f40cc99  (Display)
+    Subgroup GUID: 7516b95f-f776-4464-8c53-06167f40cc99  (Display)
     GUID Alias: SUB_VIDEO
     Power Setting GUID: 3c0bc021-c8a8-4e07-a973-6b14cbcb2b7e  (Turn off display after)
       GUID Alias: VIDEOIDLE
@@ -263,7 +262,7 @@ additionally: you can turn off page files from System Properties & speed up your
     Current AC Power Setting Index: 0x00000000
     Current DC Power Setting Index: 0x00000000
 
-  Subgroup GUID: 9596fb26-9850-41fd-ac3e-f7c3c00afd4b
+    Subgroup GUID: 9596fb26-9850-41fd-ac3e-f7c3c00afd4b
     Power Setting GUID: 10778347-1370-4ee0-8bbd-33bdacaade49  (Video playback quality bias)
       Possible Setting Index: 000
       Possible Setting Friendly Name: Video playback power-saving bias
@@ -282,7 +281,7 @@ additionally: you can turn off page files from System Properties & speed up your
     Current AC Power Setting Index: 0x00000000
     Current DC Power Setting Index: 0x00000000
 
-  Subgroup GUID: e73a048d-bf27-4f12-9731-8b2076e8891f  (Battery)
+    Subgroup GUID: e73a048d-bf27-4f12-9731-8b2076e8891f  (Battery)
     GUID Alias: SUB_BATTERY
     Power Setting GUID: 5dbb7c9f-38e9-40d2-9749-4f8a0e9f640f  (Critical battery notification)
       GUID Alias: BATFLAGSCRIT
