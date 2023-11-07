@@ -15,11 +15,7 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 ## Whats inside 🍉Powerplan?
 
 <details>
-<summary>
-````
-power scheme summary
-````
-</summary>
+<summary>power scheme summary</summary>
 
 ```bash
 # Configure power plan settings for desktops
