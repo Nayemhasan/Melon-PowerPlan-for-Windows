@@ -8,8 +8,10 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 
 ## About the powerplan⚡
 - maxed out everything even on battery power mode too *enable dc turbo boost from bios (for laptops)
-- process states maxed out to 100% for no reason*😉 & 
-
+- process states maxed out to 100% for no reason*😉 & many more 
+- now you can chose wether to use 100% cpu all the time or not
+- MelonV3 provides outsanding performance respected to thermals - cpu_idle support
+- UltimateMelonV3 provides maxed-out everything for hardcore users - no cpu_idle *make sure proper cooling
 <br>
 
 ## Whats inside 🍉Powerplan?
