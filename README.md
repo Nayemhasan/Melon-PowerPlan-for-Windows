@@ -629,12 +629,10 @@ powercfg -import "the path of that config file"
   <img src="https://github.com/Nayemhasan/Melon-PowerPlan-for-Windows/blob/main/pics/path.png">
 </p>
 
-- Go to control panel and select the 🍉power plan and all set.
+- Go to control panel and select the preferred one.
 <p align="left">
   <img src="https://github.com/Nayemhasan/Melon-PowerPlan-for-Windows/blob/main/pics/def.png">
 </p>
-
-- Now choose the preferred one.
 
 - Done🍉
 
