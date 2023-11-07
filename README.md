@@ -7,10 +7,9 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 </p>
 
 ## About the powerplan⚡
-1. maxed out everything even on battery power mode too *enable dc turbo boost from bios (for laptops)
-2. process states maxed out to 100% for no reason*😉
-<details>
-<summary>3. details👇</summary>
+- maxed out everything even on battery power mode too *enable dc turbo boost from bios (for laptops)
+- process states maxed out to 100% for no reason*😉 & <details>
+<summary>details👇</summary>
 Here's a summary of the key settings:
 
 1. **Hard Disk Power Management:**
