@@ -8,10 +8,6 @@ thanks to <p><a href="https://learn.microsoft.com/en-us/windows-hardware/design/
 
 ## About the input lags:
 <table>
-  <tr>
-    <td>Before</td>
-    <td>After</td>
-   </tr> 
    <tr>
       <td><img src="https://github.com/Nayemhasan/Melon-PowerPlan-for-Windows/blob/main/pics/Before.png"></td>
       <td><img src="https://github.com/Nayemhasan/Melon-PowerPlan-for-Windows/blob/main/pics/After.png"></td>
