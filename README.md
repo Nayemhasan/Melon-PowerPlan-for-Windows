@@ -13,6 +13,14 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 <br>
 
 ## Whats inside 🍉Powerplan?
+
+<details>
+<summary>
+````
+Code in summary
+````
+</summary>
+
 ```bash
 # Configure power plan settings for desktops
 $desktopSettingsCommands = @(
@@ -44,6 +52,9 @@ $laptopSettingsCommands = @(
     "powercfg -setacvalueindex $guid SUB_PROCESSOR PROCTHROTTLEPCT 100"
 )
 ```
+</details>
+
+
 <details>
 <summary>contents of MelonV3 power scheme</summary>
 
