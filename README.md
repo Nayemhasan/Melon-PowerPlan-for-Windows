@@ -79,14 +79,11 @@ description
 </details>
 
 
+
+
+
 <details>
-<summary>
-
-```
-Code in summary
-```
-
-</summary>
+<summary>contents of theMelonV3 power scheme</summary>
 
 ```
 Power Scheme GUID: 9712253e-f58d-4b9a-a12b-70463d94d896  (MelonV3)
