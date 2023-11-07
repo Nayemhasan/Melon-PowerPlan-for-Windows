@@ -9,6 +9,73 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 ## About the powerplan⚡
 - maxed out everything even on battery power mode too *enable dc turbo boost from bios (for laptops)
 - process states maxed out to 100% for no reason*😉
+<details>
+<summary>details👇</summary>
+
+```
+Here's a summary of the key settings:
+
+1. **Hard Disk Power Management:**
+   - Turn off hard disk after a certain time.
+   - Current AC Power Setting: Never turn off.
+   - Current DC Power Setting: 2,400 seconds (40 minutes).
+
+2. **Desktop Background Settings:**
+   - Slide show settings with options for Available and Paused.
+   - Current AC and DC Power Settings: Available.
+
+3. **Wireless Adapter Settings:**
+   - Power Saving Mode with options for Maximum Performance, Low Power Saving, Medium Power Saving, and Maximum Power Saving.
+   - Current AC and DC Power Settings: Maximum Performance.
+
+4. **Sleep Settings:**
+   - Sleep after a certain time.
+   - Allow hybrid sleep with options for Off and On.
+   - Hibernate after a certain time.
+   - Allow wake timers with options for Disable, Enable, and Important Wake Timers Only.
+   - Current AC and DC Power Settings: Various times and options.
+
+5. **USB Settings:**
+   - USB selective suspend setting with options for Disabled and Enabled.
+   - Current AC and DC Power Settings: Enabled.
+
+6. **Power Buttons and Lid Settings:**
+   - Start menu power button settings with options for Sleep, Hibernate, and Shut down.
+   - Current AC and DC Power Settings: Sleep.
+
+7. **PCI Express Settings:**
+   - Link State Power Management with options for Off, Moderate power savings, and Maximum power savings.
+   - Current AC and DC Power Settings: Off.
+
+8. **Processor Power Management:**
+   - Processor idle disable with options for Enable idle and Disable idle.
+   - Minimum processor state with settings ranging from 0% to 100%.
+   - System cooling policy with options for Passive and Active.
+   - Maximum processor state with settings ranging from 0% to 100%.
+   - Current AC and DC Power Settings: Various power and percentage settings.
+
+9. **Display Settings:**
+   - Turn off display after a certain time.
+   - Display brightness settings with values ranging from 0% to 100%.
+   - Dimmed display brightness settings with values ranging from 0% to 100%.
+   - Enable adaptive brightness with options for Off and On.
+   - Video playback quality bias with options for power-saving and performance bias.
+   - When playing video settings with options for video quality optimization and power savings.
+   - Current AC and DC Power Settings: Various times, percentages, and options.
+
+10. **Battery Settings:**
+    - Critical battery notification with options for Off and On.
+    - Critical battery action with options for Do nothing, Sleep, Hibernate, and Shut down.
+    - Low battery level with settings ranging from 0% to 100%.
+    - Low battery notification with options for Off and On.
+    - Low battery action with options for Do nothing, Sleep, Hibernate, and Shut down.
+    - Reserve battery level with settings ranging from 0% to 100%.
+    - Current AC and DC Power Settings: Various levels and actions.
+
+These settings allow users to customize their computer's power management to optimize performance, conserve energy, and control various aspects of their system's behavior based on AC and DC power sources.
+```
+
+</details>
 
 <br>
 
