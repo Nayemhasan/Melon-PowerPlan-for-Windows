@@ -11,8 +11,6 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 - process states maxed out to 100% for no reason*😉
 - <details>
 <summary>details👇</summary>
-
-```
 Here's a summary of the key settings:
 
 1. **Hard Disk Power Management:**
@@ -73,8 +71,6 @@ Here's a summary of the key settings:
     - Current AC and DC Power Settings: Various levels and actions.
 
 These settings allow users to customize their computer's power management to optimize performance, conserve energy, and control various aspects of their system's behavior based on AC and DC power sources.
-```
-
 </details>
 
 <br>
