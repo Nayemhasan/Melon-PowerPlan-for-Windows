@@ -1,5 +1,5 @@
 ## Melon-PowerPlan-for-Windows🍉
-A custom made power plan for windows end user's to get the most out of thier pc's & laptops. 
+A custom made power plan for windows end user's to get the most out of thier pc's & laptops.<br>
 thanks to <p><a href="https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options"><img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Microsoft_icon.svg" alt="Microsoft logo.svg" height="10" width="10"></a> for making things easier!
 <br>
 <p align="left">
