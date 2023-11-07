@@ -79,7 +79,8 @@ additionally: you can turn off page files from System Properties & speed up your
 <details>
 <summary>📌Cool Magisk Modules⚡</summary>
 ```bash
-Power Scheme GUID: 9712253e-f58d-4b9a-a12b-70463d94d896  (MelonV3)
+
+  Power Scheme GUID: 9712253e-f58d-4b9a-a12b-70463d94d896  (MelonV3)
   Subgroup GUID: 0012ee47-9041-4b5d-9b77-535fba8b1442  (Hard disk)
     GUID Alias: SUB_DISK
     Power Setting GUID: 6738e2c4-e8a5-4a42-b16a-e040e769756e  (Turn off hard disk after)
@@ -352,6 +353,7 @@ Power Scheme GUID: 9712253e-f58d-4b9a-a12b-70463d94d896  (MelonV3)
       Possible Settings units: %
     Current AC Power Setting Index: 0x00000007
     Current DC Power Setting Index: 0x00000007
+    
     ```
 
 </details>
