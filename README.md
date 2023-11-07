@@ -17,7 +17,7 @@ A custom made power plan for windows end user's to get the most out of thier pc'
 <details>
 <summary>
 ````
-Code in summary
+power scheme summary
 ````
 </summary>
 
