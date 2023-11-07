@@ -1,6 +1,6 @@
 ## Melon-PowerPlan-for-Windows🍉
 A custom made power plan for windows end user's to get the most out of thier pc's & laptops. 
-thanks to MICROSOFT <a href="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"><img src="Microsoft_logo.svg"></a>
+thanks to MICROSOFT <img src="https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg#/media/File:Microsoft_logo_(2012).svg" alt="A beautiful landscape">
 
 <br>
 <p align="left">
